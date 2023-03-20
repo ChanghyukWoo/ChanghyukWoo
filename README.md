@@ -14,5 +14,5 @@
 </div>
 
 <div >
-	## Now I'm currently studying
+	# Now I'm currently studying
 </div>
