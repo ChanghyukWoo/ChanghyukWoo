@@ -15,6 +15,5 @@
 
 <br>
 
-<div >
-	# Now I'm currently studying
-</div>
+## Now I'm currently Studying
+FastAPI, MSA architecture
