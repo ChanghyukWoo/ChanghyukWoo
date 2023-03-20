@@ -15,5 +15,5 @@
 
 <br>
 
-## Now I'm currently Studying
-FastAPI, MSA architecture
+### Others
+Notion, Slack, Zenhub
