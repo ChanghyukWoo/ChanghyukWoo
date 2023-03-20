@@ -15,5 +15,5 @@
 
 <br>
 
-### Others
+#### Others
 Notion, Slack, Zenhub
