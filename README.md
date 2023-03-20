@@ -13,6 +13,8 @@
 	
 </div>
 
+<br>
+
 <div >
 	# Now I'm currently studying
 </div>
